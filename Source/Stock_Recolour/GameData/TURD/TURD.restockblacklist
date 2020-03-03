@@ -1,8 +1,14 @@
 // TURD/TU_Stock_Recolour/Aero/Aerodynamic Nose Cone/
-TURD/TU_Stock_Recolour/Aero/Cones/
+TURD/TU_Stock_Recolour/Aero/Basic Fin/
+// TURD/TU_Stock_Recolour/Aero/Cones/
 TURD/TU_Stock_Recolour/Aero/Fairings/
 TURD/TU_Stock_Recolour/Aero/HeatShield/
+TURD/TU_Stock_Recolour/Aero/Inflatable Heat Shield/
 // TURD/TU_Stock_Recolour/Aero/protectiveRocketNoseMk7_v2/
+TURD/TU_Stock_Recolour/Aero/Winglet AV-R8/
+TURD/TU_Stock_Recolour/Aero/Winglet AV-T1/
+TURD/TU_Stock_Recolour/Aero/Winglet Delta Deluxe/
+
 TURD/TU_Stock_Recolour/Command/Advanced SAS Module Large/
 TURD/TU_Stock_Recolour/Command/Cupola/
 TURD/TU_Stock_Recolour/Command/Hitchhiker Storage Container/
@@ -11,31 +17,39 @@ TURD/TU_Stock_Recolour/Command/Inline Reaction Wheel/
 TURD/TU_Stock_Recolour/Command/MK1 Lander Can/
 TURD/TU_Stock_Recolour/Command/Mk1-3 Pod/
 TURD/TU_Stock_Recolour/Command/MK1 Pod V2/
-TURD/TU_Stock_Recolour/Command/mk2LanderCan_v2/
+TURD/TU_Stock_Recolour/Command/MK2 Lander Can v2/
 TURD/TU_Stock_Recolour/Command/Probe Core Cube/
 TURD/TU_Stock_Recolour/Command/Probe Core Hex v2/
 TURD/TU_Stock_Recolour/Command/Probe Core Octo2 v2/
-TURD/TU_Stock_Recolour/Command/Probe Core Octo v2/
+TURD/TU_Stock_Recolour/Command/Probe Core Octo_v2/
 TURD/TU_Stock_Recolour/Command/Probe Stack Large/
 TURD/TU_Stock_Recolour/Command/Probe Stack Small/
 TURD/TU_Stock_Recolour/Command/Probe Stack Sphere_v2/
-// TURD/TU_Stock_Recolour/Command/Probe Rover Body_v2/
+TURD/TU_Stock_Recolour/Command/Probe Rover Body_v2/
+
+TURD/TU_Stock_Recolour/CompoundParts/
+
 TURD/TU_Stock_Recolour/Coupling/Decouplers/
-TURD/TU_Stock_Recolour/Electrical/1x6 Shroud Solar Panels
-TURD/TU_Stock_Recolour/Electrical/1x6 Solar Panels
-TURD/TU_Stock_Recolour/Electrical/3x2 Shroud Solar Panels
-TURD/TU_Stock_Recolour/Electrical/Gigantor XL Solar Array
+
+TURD/TU_Stock_Recolour/Electrical/1x6 Shroud Solar Panels/
+TURD/TU_Stock_Recolour/Electrical/1x6 Solar Panels/
+TURD/TU_Stock_Recolour/Electrical/3x2 Shroud Solar Panels/
+TURD/TU_Stock_Recolour/Electrical/Gigantor XL Solar Array/
+TURD/TU_Stock_Recolour/Electrical/Radial Flat Solar Panel/
 TURD/TU_Stock_Recolour/Electrical/RTG/
 // TURD/TU_Stock_Recolour/Electrical/z-100Battery/
 // TURD/TU_Stock_Recolour/Electrical/z-1kBattery/
 // TURD/TU_Stock_Recolour/Electrical/z-200Battery/
 // TURD/TU_Stock_Recolour/Electrical/z-400Battery/
 // TURD/TU_Stock_Recolour/Electrical/z-4kBattery/
+
 // TURD/TU_Stock_Recolour/Engine/ionEngine/
 // TURD/TU_Stock_Recolour/Engine/liquidEngine24-77/
+// TURD/TU_Stock_Recolour/Engine/Liquid Engine 48-7S/
 TURD/TU_Stock_Recolour/Engine/Liquid Engine 48-7S_v2/
-// TURD/TU_Stock_Recolour/Engine/liquidEngineLV-1/
-// TURD/TU_Stock_Recolour/Engine/liquidEngineLV-1R/
+// TURD/TU_Stock_Recolour/Engine/Liquid Engine LV-1/
+TURD/TU_Stock_Recolour/Engine/Liquid Engine LV-1_v2/
+// TURD/TU_Stock_Recolour/Engine/Liquid Engine LV-1R/
 TURD/TU_Stock_Recolour/Engine/liquid Engine LV-909_v2/
 TURD/TU_Stock_Recolour/Engine/Liquid Engine LV-N/
 // TURD/TU_Stock_Recolour/Engine/liquidEngineLV-T30/
@@ -52,11 +66,15 @@ TURD/TU_Stock_Recolour/Engine/Size2 LFB/
 TURD/TU_Stock_Recolour/Engine/Size3 Advanced Engine/
 TURD/TU_Stock_Recolour/Engine/Size3 Engine Cluster/
 TURD/TU_Stock_Recolour/Engine/Solid Booster BACC/
+TURD/TU_Stock_Recolour/Engine/Solid Booster S2-17/
+TURD/TU_Stock_Recolour/Engine/Solid Booster S2-33/
 TURD/TU_Stock_Recolour/Engine/Solid Booster Sep/
+TURD/TU_Stock_Recolour/Engine/Solid Boosters F/
 // TURD/TU_Stock_Recolour/Engine/Vernor Engine/
+
 TURD/TU_Stock_Recolour/FuelTank/Foil Tanks/
 // TURD/TU_Stock_Recolour/FuelTank/fuelTankOscarB/
-TURD/TU_Stock_Recolour/FuelTank/RCSFuelTankR1/
+TURD/TU_Stock_Recolour/FuelTank/RCS Fuel Tank R1/
 TURD/TU_Stock_Recolour/FuelTank/RCS Fuel Tank R10/
 TURD/TU_Stock_Recolour/FuelTank/RCS Fuel Tank R25/
 TURD/TU_Stock_Recolour/FuelTank/RCS Tank Radial/
@@ -67,16 +85,43 @@ TURD/TU_Stock_Recolour/FuelTank/Size 3 Tanks/
 // TURD/TU_Stock_Recolour/FuelTank/xenonTank/
 // TURD/TU_Stock_Recolour/FuelTank/xenonTankLarge/
 // TURD/TU_Stock_Recolour/FuelTank/xenonTankRadial/
+
 // TURD/TU_Stock_Recolour/Misc/AsteroidDay/HECS2.mu
 // TURD/TU_Stock_Recolour/Misc/AsteroidDay/hecs*.dds
 // TURD/TU_Stock_Recolour/Misc/AsteroidDay/HighGainAntenna.mu
+
+// TURD/TU_Stock_Recolour/Resources/FuelCell/
+// TURD/TU_Stock_Recolour/Resources/ISRU/
+// TURD/TU_Stock_Recolour/Resources/LargeTank/
+// TURD/TU_Stock_Recolour/Resources/MiniDrill/
+// TURD/TU_Stock_Recolour/Resources/MiniISRU/
+TURD/TU_Stock_Recolour/Resources/Orbital Scanner/
+TURD/TU_Stock_Recolour/Resources/Radial Drill/
+// TURD/TU_Stock_Recolour/Resources/RadialTank/
+// TURD/TU_Stock_Recolour/Resources/SmallTank/
+TURD/TU_Stock_Recolour/Resources/Surface Scanner/
+TURD/TU_Stock_Recolour/Resources/SurveyS canner/
+
 TURD/TU_Stock_Recolour/Science/
+
 TURD/TU_Stock_Recolour/Structural/FL Adapters/
-TURD/TU_Stock_Recolour/Structural/Size3To2Adapter_v2/
+TURD/TU_Stock_Recolour/Structural/Size3 To 2 Adapter_v2/
+TURD/TU_Stock_Recolour/Structural/Stack Adapters/
 TURD/TU_Stock_Recolour/Structural/Station Hub/
 // TURD/TU_Stock_Recolour/Structural/structuralMicronode/
 // TURD/TU_Stock_Recolour/Structural/strutCubicOcto/
 // TURD/TU_Stock_Recolour/Structural/strutOcto/
+// TURD/TU_Stock_Recolour/Structural/structuralIBeam200/
+// TURD/TU_Stock_Recolour/Structural/structuralIBeam200Pocket/
+// TURD/TU_Stock_Recolour/Structural/structuralIBeam650/
+TURD/TU_Stock_Recolour/Structural/structuralPanel1x1/
+// TURD/TU_Stock_Recolour/Structural/structuralPanel2x2/
+// TURD/TU_Stock_Recolour/Structural/trussGirderAdapter/
+// TURD/TU_Stock_Recolour/Structural/trussGirderL/
+// TURD/TU_Stock_Recolour/Structural/trussGirderXL/
+
+TURD/TU_Stock_Recolour/Thermal/
+
 TURD/TU_Stock_Recolour/Utility/Comm Dish 88-88/
 TURD/TU_Stock_Recolour/Utility/Comms Antenna DTS-M1/
 TURD/TU_Stock_Recolour/Utility/Comms Dish 16/
@@ -97,8 +142,11 @@ TURD/TU_Stock_Recolour/Utility/Parachute Mk2-R/
 // TURD/TU_Stock_Recolour/Utility/Parachute Mk25/
 // TURD/TU_Stock_Recolour/Utility/radialAttachmentPoint/
 // TURD/TU_Stock_Recolour/Utility/rcsBlockRV-105/
+TURD/TU_Stock_Recolour/Utility/RCS Block RV-105_v2/
 TURD/TU_Stock_Recolour/Utility/Relay Antennas/
 TURD/TU_Stock_Recolour/Utility/Rockomax Adapters/
 TURD/TU_Stock_Recolour/Utility/Service Bay/
-// TURD/TU_Stock_Recolour/Utility/spotLightMk1/
-// TURD/TU_Stock_Recolour/Utility/spotLightMk2/
+TURD/TU_Stock_Recolour/Utility/Service Bay v2/
+TURD/TU_Stock_Recolour/Utility/Spotlight Mk1/
+TURD/TU_Stock_Recolour/Utility/Spotlight Mk2/
+TURD/TU_Stock_Recolour/Utility/Stack Couplers/
