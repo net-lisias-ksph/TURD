@@ -1,0 +1,4 @@
+The art assets in this pack (all .dds files) are distributed under an All Rights Reserved license. You may not redistribute or re-use these assets without express permission from the author, KSP Forum user Nertea.
+
+Copyright (c) 2019 Chris Adderley
+
