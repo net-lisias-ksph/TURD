@@ -2,7 +2,9 @@
 
 This is a continuation / adaptation / expansion of previous work I undertook for the mod KerbPaint many moons ago. It now uses shaders made available via Textures Unlimited to bring user control over the colour of many stock parts.
 
-WiP
+This is an unofficial, non authorised repository for **TURD - Textures Unlimited Recolour Depot** for historical reference and troubleshooting.
+
+**MOVED** to [BitBucket](https://bitbucket.org/net-lisias-ksp/turd/src/master/).
 
 # UPSTREAM
 
